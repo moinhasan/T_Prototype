@@ -1,2 +1,2 @@
-# TilesHop_Prototype
-A prototype of Tiles Hop game
+# T_Prototype
+A prototype game
